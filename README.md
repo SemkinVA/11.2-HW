@@ -25,7 +25,7 @@
 
 **Ответ:**
 
-![2-1](https://github.com/SemkinVA/11.2-HW/blob/main/2-1.png)
+![2-1](https://github.com/SemkinVA/11.2-HW/blob/main/2.1.png)
 
 
 ***
@@ -38,7 +38,7 @@
 
 **Ответ:**
 
-![3-1](https://github.com/SemkinVA/11.2-HW/blob/main/3-1.png)
+![3-1](https://github.com/SemkinVA/11.2-HW/blob/main/3.1.png)
 
 ***
 
@@ -50,6 +50,6 @@
 
 **Ответ:**
 
-![4-1](https://github.com/SemkinVA/11.2-HW/blob/main/4-1.png)
+![4-1](https://github.com/SemkinVA/11.2-HW/blob/main/4.1.png)
 
 
